@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm T-M-Han</h1>
+<h1 align="center">👋 Hi, I'm Thaw Myo Han</h1>
 
 <p align="center">
   A freshly graduated software developer passionate about crafting elegant, user-centered digital experiences.<br>
