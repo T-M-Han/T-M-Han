@@ -1,7 +1,7 @@
 # 👋 Hi, I'm T-M-Han
 
-Creative developer who writes code with clarity and purpose.  
-I love building minimal, meaningful experiences—on the web and beyond.
+I’m a freshly graduated software developer with a strong passion for building elegant, user-centered digital experiences.
+I specialize as a web developer, with a focus on crafting clean, responsive, and accessible interfaces using modern technologies. I'm always eager to learn, experiment, and grow—whether through building real-world projects or diving into new frameworks and tools.
 
 ---
 
