@@ -8,10 +8,16 @@
 
 ---
 
-### ⚡ Tech Stack  
-`React` `Next.js` `TypeScript` `Tailwind CSS`  
-`Node.js` `MongoDB` `PostgreSQL`  
-`Git` `Vercel` `Figma`
+### ⚡ Tech Stack
+
+**Frontend**  
+`React` `Next.js` `HTML` `CSS` `Tailwind CSS`
+
+**Backend & Logic**  
+`Node.js` `PHP` `Python`
+
+**Languages & Tools**  
+`JavaScript` `TypeScript` `Git` `Vercel`
 
 ---
 
