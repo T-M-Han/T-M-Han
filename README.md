@@ -14,7 +14,7 @@
 `React` `Next.js` `HTML` `CSS` `Tailwind CSS`
 
 **Backend & Logic**  
-`Node.js` `PHP` `Python`
+`Node.js` `PHP` `Python` `SQL` `MongoDB` `PostgreSQL` 
 
 **Languages & Tools**  
 `JavaScript` `TypeScript` `Git` `Vercel`
