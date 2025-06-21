@@ -1,7 +1,10 @@
-# 👋 Hi, I'm T-M-Han
+<h1 align="center">👋 Hi, I'm T-M-Han</h1>
 
-I’m a freshly graduated software developer with a strong passion for building elegant, user-centered digital experiences.
-I specialize as a web developer, with a focus on crafting clean, responsive, and accessible interfaces using modern technologies. I'm always eager to learn, experiment, and grow—whether through building real-world projects or diving into new frameworks and tools.
+<p align="center">
+  A freshly graduated software developer with a passion for crafting elegant, user-centered digital experiences.<br>
+  Specializing in modern web development — building clean, responsive, and accessible interfaces.<br>
+  Always learning, always experimenting.
+</p>
 
 ---
 
@@ -13,18 +16,19 @@ I specialize as a web developer, with a focus on crafting clean, responsive, and
 ---
 
 ### 🛠 Currently Working On
-- Designing [hant.dev](https://your-portfolio-link.com) – my creative portfolio
-- Writing short blog notes on things I just learned
-- Exploring web animations & creative coding tools
+- 🎨 Designing [hant.dev](https://your-portfolio-link.com) – my creative portfolio
+- ✍️ Writing short blog notes on things I just learned
+- 🌈 Exploring web animations & creative coding tools
 
 ---
 
 ### 📫 Let's Connect  
-- 🌐 [hant.dev](https://your-portfolio-link.com)  
-- 🐦 [@your_twitter_handle](https://twitter.com/your_twitter_handle)  
-- 📬 [your@email.com](mailto:your@email.com)
+<p align="left">
+  🌐 <a href="https://your-portfolio-link.com" target="_blank">hant.dev</a> <br>
+  🐦 <a href="https://twitter.com/your_twitter_handle" target="_blank">@your_twitter_handle</a> <br>
+  📬 <a href="mailto:your@email.com">your@email.com</a>
+</p>
 
 ---
 
-> *"Build slow, build thoughtful."*
-
+<p align="center"><i>"Build slow, build thoughtful."</i></p>
