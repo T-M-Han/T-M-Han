@@ -32,7 +32,7 @@
 
 ### 🌍 Connect with Me
 
-- 🌐 **Portfolio:** [hant.vercel.app](https://hant.vercel.app)  
+- 🌐 **Portfolio:** [hant.vercel.app](https://hant.dev)  
 - 💼 **LinkedIn:** [linkedin.com/in/han2873292a7](https://www.linkedin.com/in/han2873292a7/)  
 - 🐦 **Twitter / X:** [@thawmyohan](https://x.com/thawmyohan)  
 
