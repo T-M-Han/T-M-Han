@@ -1,39 +1,41 @@
-<h1 align="center">👋 Hi, I'm Thaw Myo Han</h1>
+<h1 align="center">👋 Hey, I'm Thaw Myo Han</h1>
 
 <p align="center">
-  A freshly graduated software developer passionate about crafting elegant, user-centered digital experiences.<br>
-  Specializing in modern web development — building clean, responsive, and accessible interfaces.<br>
-  Always learning, always experimenting.
+  A passionate Full-Stack Developer with a strong foundation in Computer Systems Engineering.<br>
+  I enjoy building intuitive, performant, and scalable web applications — from sleek frontends to efficient backends.<br>
+  Recently graduated and always curious, I thrive on learning new tools and pushing boundaries in modern development.
 </p>
 
 ---
 
-### ⚡ Tech Stack
+### ⚙️ My Tech Stack
 
 **Frontend**  
-`React` `Next.js` `HTML` `CSS` `Tailwind CSS`
+`React.js` `Next.js` `TypeScript` `JavaScript` `Tailwind CSS` `HTML` `CSS`
 
-**Backend & Logic**  
-`Node.js` `PHP` `Python` `SQL` `MongoDB` `PostgreSQL` 
+**Backend & Databases**  
+`Node.js` `PHP` `Python` `MongoDB` `PostgreSQL` `SQL`
 
-**Languages & Tools**  
-`JavaScript` `TypeScript` `Git` `Vercel`
-
----
-
-### 🛠 Currently Working On
-- 🎨 Designing [hant.vercel.app](https://hant.vercel.app) – my creative portfolio
-- ✍️ Writing short blog notes on things I just learned
-- 🌈 Exploring web animations & creative coding tools
+**Tools & Platforms**  
+`Git` `GitHub` `Vercel` `Sanity CMS` `Figma` `Visual Studio Code`
 
 ---
 
-### 📫 Let’s Connect
+### 🚀 Projects & Focus
 
-- 🌐 Website: [hant.vercel.app](https://hant.vercel.app)  
-- 💼 LinkedIn: [linkedin.com/in/han2873292a7](https://www.linkedin.com/in/han2873292a7/)  
-- 🐦 Twitter (X): [@thawmyohan](https://x.com/thawmyohan)
+- 🔧 **Building:** My portfolio site [hant.vercel.app](https://hant.dev) using Next.js + Sanity CMS  
+- 🧠 **Learning:** Web animation, CMS integration, full-stack scalability  
+- 📝 **Writing:** Quick blog posts documenting new tech I explore  
+- 🎓 **Recent Work:** Internship at Sunderland Software City – delivering real-world solutions with a collaborative dev team  
 
 ---
 
-<p align="center"><i>"Build slow, build thoughtful."</i></p>
+### 🌍 Connect with Me
+
+- 🌐 **Portfolio:** [hant.vercel.app](https://hant.vercel.app)  
+- 💼 **LinkedIn:** [linkedin.com/in/han2873292a7](https://www.linkedin.com/in/han2873292a7/)  
+- 🐦 **Twitter / X:** [@thawmyohan](https://x.com/thawmyohan)  
+
+---
+
+<p align="center"><i>“Code with purpose. Learn with intent. Build with passion.”</i></p>
