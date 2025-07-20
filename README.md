@@ -23,7 +23,7 @@
 
 ### 🚀 Projects & Focus
 
-- 🔧 **Building:** My portfolio site (https://hant.dev) using Next.js + Sanity CMS  
+- 🔧 **Building:** My portfolio site [HANT](https://hant.dev) using Next.js + Sanity CMS  
 - 🧠 **Learning:** Web animation, CMS integration, full-stack scalability  
 - 📝 **Writing:** Quick blog posts documenting new tech I explore  
 - 🎓 **Recent Work:** Internship at Sunderland Software City – delivering real-world solutions with a collaborative dev team  
@@ -32,7 +32,7 @@
 
 ### 🌍 Connect with Me
 
-- 🌐 **Portfolio:** (https://hant.dev)  
+- 🌐 **Portfolio:** [HANT](https://hant.dev)  
 - 💼 **LinkedIn:** [linkedin.com/in/han2873292a7](https://www.linkedin.com/in/thawmyohan2025/)  
 - 🐦 **Twitter / X:** [@thawmyohan](https://x.com/thawmyohan)  
 
