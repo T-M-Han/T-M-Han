@@ -33,7 +33,7 @@
 ### 🌍 Connect with Me
 
 - 🌐 **Portfolio:** [HANT](https://hant.dev)  
-- 💼 **LinkedIn:** [linkedin.com/in/han2873292a7](https://www.linkedin.com/in/thawmyohan2025/)  
+- 💼 **LinkedIn:** [Thaw Myo Han](https://www.linkedin.com/in/thawmyohan2025/)  
 - 🐦 **Twitter / X:** [@thawmyohan](https://x.com/thawmyohan)  
 
 ---
