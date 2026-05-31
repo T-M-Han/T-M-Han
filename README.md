@@ -39,6 +39,7 @@ I enjoy building clean, user-focused digital products and continuously improving
 
 - **Sneaker E-commerce Website**  
   Database-backed e-commerce project using HTML, CSS, JavaScript, PHP, MySQL, and Apache.
+  🔗 [Live Site](https://seeker.freehosting.dev/)
 
 - **JWT Authentication System**  
   Secure authentication project using Python, Tkinter, PyJWT, and bcrypt.
