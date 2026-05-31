@@ -2,7 +2,7 @@
 
 <p align="center">
   Computer Systems Engineering Graduate | Junior Software Developer | IT Support | QA<br>
-  Relocating to London and seeking entry-level opportunities in software development, technical support, QA, and cloud-related roles.
+  Based in London and seeking entry-level opportunities in software development, technical support, QA, and cloud-related roles.
 </p>
 
 ---
@@ -11,7 +11,7 @@
 
 I'm a Computer Systems Engineering graduate from the University of Sunderland with hands-on experience building responsive web applications using React, Next.js, TypeScript, Tailwind CSS, and backend/database technologies.
 
-I enjoy building clean, user-focused digital products and continuously improving my skills through practical projects. My current focus is strengthening my full-stack development skills, improving my GitHub projects, and preparing for professional technology roles in London.
+I enjoy building clean, user-focused digital products and continuously improving my skills through practical projects. My current focus is strengthening my full-stack development skills, improving my GitHub projects, and actively applying for professional technology roles in London.
 
 ---
 
